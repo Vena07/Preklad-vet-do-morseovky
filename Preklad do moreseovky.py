@@ -63,3 +63,4 @@ for i in veta:
     Preklad()
     preklad.append(i)
 print(preklad)
+prin=
