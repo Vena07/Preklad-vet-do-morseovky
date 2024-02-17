@@ -14,7 +14,7 @@ def Preklad() :
         i = "..-."
     elif i in ["G", "g"]:
         i = "--."
-    elif i in ["H", "h", "Ch", "ch"]:
+    elif i in ["H", "h"]:
         i = "...."
     elif i in ["I", "i", "Í", "í"]:
         i = ".."
@@ -63,4 +63,3 @@ for i in veta:
     Preklad()
     preklad.append(i)
 print(preklad)
-prin=
